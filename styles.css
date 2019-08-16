@@ -13,5 +13,5 @@ h1 {
     align-items: center;
     justify-items: center;
     background: url('https://personal-site-drew-moore.s3.amazonaws.com/sam-hull-KCJKsJPe9pQ-unsplash(1).jpg') no-repeat cover;
-
+    height: 100vh;
 }
