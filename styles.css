@@ -1,17 +1,23 @@
 html {
     box-sizing: border-box;
+    font-size: 10px;
+}
+body, html {
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
     color: white;
     font-family: 'Over the Rainbow', cursive;
-    font-size: 3rem;
+    font-size: 5rem;
 }
 
 .intro {
     display: flex;
     align-items: center;
-    justify-items: center;
-    background: center no-repeat url('https://personal-site-drew-moore.s3.amazonaws.com/sam-hull-KCJKsJPe9pQ-unsplash(1).jpg');
+    justify-content: center;
+    background: url(https://personal-site-drew-moore.s3.amazonaws.com/sam-hull-KCJKsJPe9pQ-unsplash2.jpg) center no-repeat;
+    background-size: cover;
     height: 100vh;
 }
