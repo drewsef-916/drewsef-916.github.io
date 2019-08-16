@@ -1,3 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
 h1 {
-    color: rebeccapurple;
+    color: white;
+    font-family: 'Over the Rainbow', cursive;
+    font-size: 3rem;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background: url('https://personal-site-drew-moore.s3.amazonaws.com/sam-hull-KCJKsJPe9pQ-unsplash(1).jpg') no-repeat cover;
+
 }
